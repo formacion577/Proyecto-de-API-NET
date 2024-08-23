@@ -1,0 +1,33 @@
+E:\D\Cuerso de Programación\Curso API NET\bin\Debug\net8.0\appsettings.Development.json
+E:\D\Cuerso de Programación\Curso API NET\bin\Debug\net8.0\appsettings.json
+E:\D\Cuerso de Programación\Curso API NET\bin\Debug\net8.0\Curso API NET.exe
+E:\D\Cuerso de Programación\Curso API NET\bin\Debug\net8.0\Curso API NET.deps.json
+E:\D\Cuerso de Programación\Curso API NET\bin\Debug\net8.0\Curso API NET.runtimeconfig.json
+E:\D\Cuerso de Programación\Curso API NET\bin\Debug\net8.0\Curso API NET.dll
+E:\D\Cuerso de Programación\Curso API NET\bin\Debug\net8.0\Curso API NET.pdb
+E:\D\Cuerso de Programación\Curso API NET\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\D\Cuerso de Programación\Curso API NET\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\D\Cuerso de Programación\Curso API NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\D\Cuerso de Programación\Curso API NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\D\Cuerso de Programación\Curso API NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\Curso API NET.csproj.AssemblyReference.cache
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\Curso API NET.GeneratedMSBuildEditorConfig.editorconfig
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\Curso API NET.AssemblyInfoInputs.cache
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\Curso API NET.AssemblyInfo.cs
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\Curso API NET.csproj.CoreCompileInputs.cache
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\Curso API NET.MvcApplicationPartsAssemblyInfo.cs
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\Curso API NET.MvcApplicationPartsAssemblyInfo.cache
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\staticwebassets.build.json
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\staticwebassets.development.json
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\staticwebassets\msbuild.Curso API NET.Microsoft.AspNetCore.StaticWebAssets.props
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\staticwebassets\msbuild.build.Curso API NET.props
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Curso API NET.props
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Curso API NET.props
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\staticwebassets.pack.json
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\scopedcss\bundle\Curso API NET.styles.css
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\Curso AP.31A2C550.Up2Date
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\Curso API NET.dll
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\refint\Curso API NET.dll
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\Curso API NET.pdb
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\Curso API NET.genruntimeconfig.cache
+E:\D\Cuerso de Programación\Curso API NET\obj\Debug\net8.0\ref\Curso API NET.dll
